@@ -1,6 +1,7 @@
 ### Olá👋
-Sou Manoel e estou aprimorando minhas habilidades em programação!
-
+- Sou Manoel e estou aprimorando minhas habilidades em programação!
+- Neste perfil serão publicados alguns e meus projetos.
+> ![](https://giffiles.alphacoders.com/719/7199.gif)
 <!--
 **Henriquezeiro/Henriquezeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
