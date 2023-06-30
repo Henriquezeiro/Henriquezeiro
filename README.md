@@ -1,4 +1,5 @@
 ### Olá👋
+Sou Manoel e estou aprimorando minhas habilidades em programação!
 
 <!--
 **Henriquezeiro/Henriquezeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
